@@ -26,6 +26,7 @@ const data = {
     'Kraken': { country: 'USA' },
     'Binance': { country: 'USA' },
     'Coinbase': { country: 'USA' },
+    'Amway': { country: 'USA' },
 }
 
 module.exports = {
